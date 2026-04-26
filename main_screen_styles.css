@@ -628,6 +628,7 @@ footer{
 .sidebar.active {
     left: 0;
     display: block !important;
+    min-height: 100%;
 }
 
 .sidebar-header {
