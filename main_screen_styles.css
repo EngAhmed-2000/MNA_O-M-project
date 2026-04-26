@@ -31,7 +31,7 @@ header {
     margin-left: 2rem auto;
     margin-right: 2rem auto;
     padding: 0rem 0.5rem 0 0.5rem;
-    max-width: 1200px;
+    /*max-width: 1200px;*/
     flex-wrap: wrap;
     position: relative;
 }
