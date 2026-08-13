@@ -387,7 +387,7 @@ hr {
     display: block;
     flex-direction: column;
     justify-content: space-around;
-    align-items: left;
+    align-items: center;
     margin: 1rem auto;
     max-width: 100%;
     height: auto;
