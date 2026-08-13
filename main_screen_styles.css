@@ -386,8 +386,8 @@ hr {
 .servicesContainer {
     display: block;
     flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
+    /*justify-content: space-around;*/
+    align-items: left;
     margin: 1rem auto;
     max-width: 100%;
     height: auto;
